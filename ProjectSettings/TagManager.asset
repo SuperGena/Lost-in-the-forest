@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sled0
+  - ulik0
+  - ulik1
+  - ulik2
+  - krolik
+  - volki
+  - ulik3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - wolk
+  - Water
+  - UI
+  - sobaken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnGround
+    uniqueID: 1947493951
+    locked: 0
+  - name: Dogos
+    uniqueID: 2028126803
+    locked: 0
